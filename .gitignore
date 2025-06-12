@@ -1,8 +1,5 @@
 # Bỏ qua thư mục node_modules
 node_modules/
 
-# Bỏ qua file cert.pem
-cert.pem
-
-# Bỏ qua file key.pem
-key.pem
+# Bỏ qua folder src/resources/public/css
+src/resources/public/css/

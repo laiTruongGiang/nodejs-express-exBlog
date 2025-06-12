@@ -1,0 +1,4 @@
+{
+    "//note": "dùng để config thêm đuôi js json scss hbs để [nodemon] watching extensions có thể lắng nghe được các file có đuôi js json scss hbs",
+    "ext": "js json scss hbs"
+}
